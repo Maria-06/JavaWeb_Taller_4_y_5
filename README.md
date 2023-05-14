@@ -9,18 +9,18 @@ Conexión de Base de Datos y Encriptación de Contraseña
 
 <p>Conexión Sainglenton Super Usuario</p>
 <p align="center">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/cf995cb2-b417-4a7f-9f0a-b6e2b2143862">
+  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/310b6bd4-eca9-4cec-978b-47092461d432">
 </p>
 
 <p>Conexión Con Recursos Super Usuario</p>
 <p align="center">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/903a6d3b-fd8e-4f0f-b761-e49ecdee45fe">
+  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/ea347628-772f-46c3-9bca-3cd7582e06b2">
 </p>
 
 <p>Conexión Pool Super Usuario</p>
 <p align="center">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/adf71856-8323-4182-8780-81aa82de10b5">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/00287011-bb40-4e1d-841b-ccca6bcb3215">
+  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/59304a45-f985-467b-ad16-e6eb6a1de5d3">
+  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/c2fb2d68-43ef-45ee-9f58-c74621dbeb7d">
 </p>
 
 </p>
