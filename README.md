@@ -43,6 +43,9 @@ Conexión de Base de Datos y Encriptación de Contraseña
 
 <p>Resultado de Conexión con cuenta de Usuario</p>
 <p align="center">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/4ebc0915-475a-44d5-b0af-9235d7d6d1b3">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/6762ced9-057f-4d60-80de-f0cb156e2751">
+
   <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/1031ac5e-b3dc-43de-b85d-419e4ca1e333">
 </p>
 
