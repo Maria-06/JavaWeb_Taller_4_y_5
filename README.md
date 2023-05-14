@@ -20,7 +20,7 @@ Conexión de Base de Datos y Encriptación de Contraseña
 <p>Conexión Pool Super Usuario</p>
 <p align="center">
   <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/59304a45-f985-467b-ad16-e6eb6a1de5d3">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/a0e033e5-fc1a-4957-83d4-9ef61d5d3506">
+  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/7424ce1a-eae4-4d75-a49c-93b79dfa0175">
 </p>
 
 </p>
