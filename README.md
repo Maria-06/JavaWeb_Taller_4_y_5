@@ -34,6 +34,7 @@ Conexión de Base de Datos y Encriptación de Contraseña
   <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/25523ce7-3611-4b25-8a21-8d8b1a72a3de">
   <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/fc69009a-94a3-4dea-a488-711d6589d99f">
   <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/d0e67837-49ba-49ef-af43-49daaab24f06">
+  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/107c45d1-95f8-469c-8771-6640fe66afef">
 
 </p>
 
