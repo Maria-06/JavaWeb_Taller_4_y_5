@@ -3,8 +3,8 @@ Conexión de Base de Datos y Encriptación de Contraseña
 
 <p>Conexión Basica Super Usuario</p>
 <p align="center">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/c8720760-7705-44e8-9c52-0eb4a76d5ed7">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/0f32f478-758f-4f07-b564-cfe1ee75ae81">
+  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/594df6d5-56bf-4936-aef2-53e1f01ab016">
+  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/9883a779-563f-487a-809f-35ed1fb1d995">
 </p>
 
 <p>Conexión Sainglenton Super Usuario</p>
