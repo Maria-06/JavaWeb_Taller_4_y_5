@@ -28,6 +28,7 @@ Conexión de Base de Datos y Encriptación de Contraseña
 <p align="center">
   <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/8f4b4d3e-118a-4d02-80b1-c7bc006fe242">
   <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/e478cb7d-16d6-447e-aba5-c17b26c4036e">
+  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/3b584497-bb95-4fe8-b006-8c291873a7e7">
   <img src="">
 </p>
 <p>Crear cuenta de usuario con contraseña desde PhpMyAdmin </p>
