@@ -1,6 +1,6 @@
 # JavaWeb_Taller_4_y_5
 Conexión de Base de Datos y Encriptación de Contraseña
-
+<p>Para crear la conexión es necesario dentro de la carpeta java de la estructura del documento ,luego, allí</p>
 <p>Conexión Basica Super Usuario</p>
 <p align="center">
   <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/9922c277-9e21-4ebb-bccd-3756ce5ebb79">
